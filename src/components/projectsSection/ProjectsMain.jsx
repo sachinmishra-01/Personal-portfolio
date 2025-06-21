@@ -5,31 +5,24 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
-    name: "Vacation of Africa",
-    year: "Mar2022",
+    name: "Resume Analyzer",
+    year: "Mar 2025",
     align: "right",
     image: "../../public/images/website-img-1.jpg",
     link: "#",
   },
   {
-    name: "Moola App",
-    year: "Sept2022",
+    name: "Coffee Heaven",
+    year: "Sept 2024",
     align: "left",
     image: "../../public/images/website-img-2.webp",
     link: "#",
   },
   {
-    name: "Tourzania",
-    year: "Jan2023",
+    name: "Finance Manager",
+    year: "June 2025",
     align: "right",
     image: "../../public/images/website-img-3.jpg",
-    link: "#",
-  },
-  {
-    name: "Bank of Luck",
-    year: "May2024",
-    align: "left",
-    image: "../../public/images/website-img-4.jpg",
     link: "#",
   },
 ];
